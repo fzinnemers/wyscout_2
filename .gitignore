@@ -1,0 +1,11 @@
+.venv
+storage/db/*
+storage/wyscout_data/*
+storage/extra_data/*
+storage/mappings/*
+storage/league_id_main_competitions.xlsx
+
+scrapers/wyscout_api_scraper.R
+
+wyscout_etl/__pycache__/
+wyscout_etl/*.pyc
